@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\ESP32教学资料\\数字孪生教学\\UE新版像素流送\\PeerStreamEnterprise-main\\logs\\.e1ac2203dd9f7836d4cc5bda7fd0dd150c77ec81-audit.json",
+    "files": [
+        {
+            "date": 1722526379730,
+            "name": "D:\\ESP32教学资料\\数字孪生教学\\UE新版像素流送\\PeerStreamEnterprise-main\\logs\\execue-2024-08-01.log",
+            "hash": "af3dabd52284e735a905820c763eeab002aeaeab77bdd8ebe52266a120a4f9df"
+        }
+    ],
+    "hashType": "sha256"
+}

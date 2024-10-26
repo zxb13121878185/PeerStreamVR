@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\UnrealProjects\\inveta\\PeerStreamEnterprise\\PeerStreamEnterprise-main\\logs\\.f83f32b8fd38f6fe08d6515abe868aabc4db7a62-audit.json",
+    "files": [
+        {
+            "date": 1729934226261,
+            "name": "E:\\UnrealProjects\\inveta\\PeerStreamEnterprise\\PeerStreamEnterprise-main\\logs\\execue-2024-10-26.log",
+            "hash": "0b147b33401685816719f3b575901a03b686b24d6e54838d67c159f8facc2e78"
+        }
+    ],
+    "hashType": "sha256"
+}
